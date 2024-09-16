@@ -12,4 +12,5 @@
 - profit per month
 - profit per region
 # Dashboard:
-![Uploading sales dashboard.png…]()
+ ![sales dashboard](https://github.com/user-attachments/assets/6d7f4830-b0ca-45ed-b1e3-7d13926d2bd5)
+
